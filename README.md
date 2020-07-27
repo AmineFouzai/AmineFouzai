@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
 
+
+    A Python Enthusiast ,Good at backend Development(django,flask,tornado) and loves to Discover technologys related with other topics in computer science.
+
+
