@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
 
-<img alt="GIF debate | Steven Crowder's &quot;Change My Mind&quot; Campus Sign | Know ..." class="n3VNCb" src="https://i.kym-cdn.com/photos/images/original/001/348/450/170.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" style="width: 431px; height: 318.51px; margin: 0px;">
