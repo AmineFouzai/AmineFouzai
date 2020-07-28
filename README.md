@@ -24,6 +24,6 @@ with other topics in computer science and thirsty to learn new stuff ,i'm lookin
 related in my field to learn and study more because i have so much fun doing what i'm good
 at.
 
-|||
+|**Push**|**The**|
 | ------------- | ------------- |
-|<img alt="Top Gezi Parki Stickers for Android &amp; iOS  Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/BetterScentedCooter-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;"  width="84" height="84" style=" margin: 9.5px 0px;">|**Follow ME**|
+|<img alt="Top Gezi Parki Stickers for Android &amp; iOS  Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/BetterScentedCooter-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;"  width="84" height="84" style=" margin: 9.5px 0px;">|**Follow**|
