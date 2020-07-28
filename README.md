@@ -23,6 +23,6 @@ and AI field (computer vision, image processing,OCR),loves to Discover technolog
 with other topics in computer science and thirsty to learn new stuff ,i'm looking for jobs
 related in my field to learn and study more because i have so much fun doing what i'm good
 at.
-<img alt="Python GIF - Find on GIFER" class="n3VNCb" src="https://i.gifer.com/7LIV.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" style="width: 310px; height: 280px; margin: 0px;">
-<img class="irc_mi" src="https://lh6.googleusercontent.com/proxy/vEeSb9Mb5tF1pWmic41BrkLKoO3M9acE8Mj0XGn6j23GBXO64dzUFxmQQbfB8KJQToa4jK_XxwJSaQPZ0qPnGbsyyQ" data-atf="0" width="170" height="170" style="" alt="Related image">
+
+<img class="irc_mi" src="https://lh6.googleusercontent.com/proxy/vEeSb9Mb5tF1pWmic41BrkLKoO3M9acE8Mj0XGn6j23GBXO64dzUFxmQQbfB8KJQToa4jK_XxwJSaQPZ0qPnGbsyyQ" data-atf="0" width="170" height="170" style="" alt="Related image" width="64" height="64">
 
