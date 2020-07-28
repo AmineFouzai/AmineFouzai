@@ -23,6 +23,8 @@ and AI field (computer vision, image processing,OCR),loves to Discover technolog
 with other topics in computer science and thirsty to learn new stuff ,i'm looking for jobs
 related in my field to learn and study more because i have so much fun doing what i'm good
 at.
-
+<div>
+<script src="https://cdn.htmlgames.com/embed.js?game=1010Classic&amp;bgcolor=white"></script>
+</div>
 
 
