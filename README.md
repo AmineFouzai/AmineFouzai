@@ -23,4 +23,5 @@ and AI field (computer vision, image processing,OCR),loves to Discover technolog
 with other topics in computer science and thirsty to learn new stuff ,i'm looking for jobs
 related in my field to learn and study more because i have so much fun doing what i'm good
 at.
+<img class="irc_mi" src="https://lh6.googleusercontent.com/proxy/vEeSb9Mb5tF1pWmic41BrkLKoO3M9acE8Mj0XGn6j23GBXO64dzUFxmQQbfB8KJQToa4jK_XxwJSaQPZ0qPnGbsyyQ" data-atf="0" width="170" height="170" style="" alt="Related image">
 
