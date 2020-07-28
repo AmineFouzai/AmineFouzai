@@ -25,3 +25,4 @@ related in my field to learn and study more because i have so much fun doing wha
 at.
 
 
+<img alt="Top Gezi Parki Stickers for Android &amp; iOS | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/BetterScentedCooter-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" style="width: 200px; height: 200px; margin: 9.5px 0px;">
