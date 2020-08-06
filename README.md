@@ -27,5 +27,3 @@ at.
 
 
 <img alt="Top Idle Gif Stickers for Android &amp; iOS | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/DeadAshamedCaimanlizard-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" width="64" height="64">
-
-<img alt="Pixel Sticker Sticker by haydiroket (Mert Keskin) for iOS ..." class="n3VNCb" src="https://media3.giphy.com/media/3oKIPA7GSyGJqbWjQY/source.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" width="64" height="64">
