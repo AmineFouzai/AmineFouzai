@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
-
+<p float="left">
+ <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
+  <img alt="Top Idle Gif Stickers for Android &amp; iOS | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/DeadAshamedCaimanlizard-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" width="64" height="64"> 
+</p>
 A Python Enthusiast ,Good at back-end Development building restful architecture or graphql
 APIS. knows Python(Django,flask,tornado,fastapi) also (Nodejs/express). worked with
 different relational database -MySQL,PostgreSQL,Redis -NoSql(MongoDB/fire-store)
@@ -26,4 +28,5 @@ related in my field to learn and study more because i have so much fun doing wha
 at.
 
 
-<img alt="Top Idle Gif Stickers for Android &amp; iOS | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/DeadAshamedCaimanlizard-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" width="64" height="64">
+
+
