@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
+
 A Python Enthusiast ,Good at back-end Development building restful architecture or graphql
 APIS. knows Python(Django,flask,tornado,fastapi) also (Nodejs/express). worked with
 different relational database -MySQL,PostgreSQL,Redis -NoSql(MongoDB/fire-store)
@@ -23,4 +24,4 @@ and AI field (computer vision, image processing,OCR),loves to Discover technolog
 with other topics in computer science and thirsty to learn new stuff ,i'm looking for jobs
 related in my field to learn and study more because i have so much fun doing what i'm good
 at.
-<img alt="NYAN CAT Sticker GIF | Gfycat" class="n3VNCb" src="https://thumbs.gfycat.com/ShockingFastAgouti-max-1mb.gif" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd,gvK6lb;" width="3000" height="300" >
+
