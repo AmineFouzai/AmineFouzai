@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 </p>
 
-[![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true)](https://github.com/long2ice/long2ice)
+[![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true)](https://github.com/MedAmineFouzai)
 
 
 A Python Enthusiast ,Good at back-end Development building restful architecture or graphql APIS.
