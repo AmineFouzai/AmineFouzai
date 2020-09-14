@@ -24,5 +24,5 @@ Here are some ideas to get you started:
  
 [![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true)](https://github.com/MedAmineFouzai)
 
-<img src="https://camo.githubusercontent.com/b442e64c40b022aa25f3c564250a06c14f3e43e6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" style="max-width:100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineFouzai)](https://github.com/anuraghazra/github-readme-stats)
 </p>
