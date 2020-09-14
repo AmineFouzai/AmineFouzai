@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 <p float="left">
  
-[![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true)](https://github.com/MedAmineFouzai)
+[![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true&theme=dracula)](https://github.com/MedAmineFouzai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineFouzai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineFouzai&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </p>
