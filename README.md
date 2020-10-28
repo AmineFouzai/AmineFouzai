@@ -7,7 +7,7 @@
  
 [![MedAmineFouzai's github stats](https://github-readme-stats.vercel.app/api?username=MedAmineFouzai&show_icons=true&theme=dark  )](https://github.com/MedAmineFouzai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedAmineFouzai&layout=compact&show_icons=true&theme=dark )](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
