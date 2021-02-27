@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <p float="left">
+ <img src="http://profile-counter.glitch.me/MrBessrour/count.svg" />
+</p>
+
+<p float="left">
  <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" alt="Pixel Mona heart" width="64" height="64">
 </p>
 <p float="left">
