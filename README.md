@@ -7,7 +7,7 @@
 
 
 </p>
-<a href="https://github.com/MedAmineFouzai/github-readme-activity-graph"><img alt="MedAmineFouzai's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MedAmineFouzai&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 
 <p float="left">
  
