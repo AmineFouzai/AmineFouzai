@@ -3,7 +3,7 @@
 
 
 
-|![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif?width=64)| <h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is "Amine Fouzai" </h1>|<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Pixel Mona heart" width="64" height="64"> |
+|![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)| <h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is "Amine Fouzai" </h1>|<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Pixel Mona heart" width="64" height="64"> |
 |--|--|--|
 ||<div align="center" >![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAmineFouzai&theme=dark)</div>||
 ||im a "Backend Developer" with experience in creating and implementing server-side web application solutions, proficient in Python, Node, database management ,and more ..., building unique solutions, using web frameworks, version control tools, and strong problem-solving abilities.||
