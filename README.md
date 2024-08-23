@@ -48,6 +48,6 @@
 ![](https://activity-graph.herokuapp.com/graph?username=MedAmineFouzai&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
 
   
-
+[![Fouzai M Amine profile views](https://u8views.com/api/v1/github/profiles/54685665/views/day-week-month-total-count.svg)](https://u8views.com/github/AmineFouzai)
 
 </div>
