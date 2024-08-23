@@ -5,7 +5,7 @@
 
 |![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)| <h1>Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name is "Amine Fouzai" </h1>|<img src="https://github.githubassets.com/images/mona-loading-dark.gif" alt="Pixel Mona heart" width="64" height="64"> |
 |--|--|--|
-||<div align="center" >![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MedAmineFouzai&theme=dark)</div>||
+||<div align="center" >![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineFouzai&theme=dark)</div>||
 
  <div align="left" >
 
@@ -32,9 +32,9 @@
 | [Email](mailto:mohamed.amine.fouzai@gmail.com) | [LinkedIn](https://www.linkedin.com/in/fouzai-mohamed-amine-27689a185/)|[Twitter](https://twitter.com/fouzai_amine)| [FaceBook](https://www.facebook.com/mohamedamine.fouzai.9003)| [Discord](https://discord.com/users/4645)
 |--|--|--|--|--|
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=MedAmineFouzai&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MedAmineFouzai&theme=dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MedAmineFouzai&theme=dark)|
+|![](https://github-readme-streak-stats.herokuapp.com/?user=AmineFouzai&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmineFouzai&theme=dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmineFouzai&theme=dark)|
 |--|--|--|
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MedAmineFouzai&theme=dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MedAmineFouzai&theme=dark&utcOffset=8) |![](https://github-profile-trophy.vercel.app/?username=MedAmineFouzai&theme=onedark)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmineFouzai&theme=dark)| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AmineFouzai&theme=dark&utcOffset=8) |![](https://github-profile-trophy.vercel.app/?username=AmineFouzai&theme=onedark)|
 
   
 
@@ -45,7 +45,7 @@
 
 
 
-![](https://activity-graph.herokuapp.com/graph?username=MedAmineFouzai&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
+![](https://activity-graph.herokuapp.com/graph?username=AmineFouzai&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
 
   
 [![Fouzai M Amine profile views](https://u8views.com/api/v1/github/profiles/54685665/views/day-week-month-total-count.svg)](https://u8views.com/github/AmineFouzai)
