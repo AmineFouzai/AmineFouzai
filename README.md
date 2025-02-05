@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="40">
-  Hey there! 👋 I'm Amine Fouzai  
+  Hey there! 👋 I'm Fouzai Mohamed Amine   
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="40">
 </h1>
 
@@ -31,6 +31,7 @@
 🐦 **Twitter**: [@fouzai_amine](https://twitter.com/fouzai_amine)  
 📘 **Facebook**: [Mohamed Amine Fouzai](https://www.facebook.com/mohamedamine.fouzai.9003)  
 🎮 **Discord**: [Join Me](https://discord.com/users/4645)  
+🌍 **Portfolio**: [My Portfolio](https://aminefouzai.github.io/MyPortfolio) 
 
 ---
 
