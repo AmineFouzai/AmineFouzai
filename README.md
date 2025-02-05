@@ -4,6 +4,8 @@
   👋 Hello, I'm Amine Fouzai!
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="40px">
 </h1>
+## 🐍 Contribution Snake Graph  
+
 
 ---
 ## 🚀 About Me  
@@ -71,7 +73,7 @@
 
 ## 📈 Contribution Graph  
 
-![](https://activity-graph.herokuapp.com/graph?username=AmineFouzai&theme=react-dark&hide_border=true&custom_title=Activity%20Graph)
+![Amine Fouzai's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AmineFouzai&theme=react-dark&hide_border=true&custom_title=GitHub%20Activity%20Graph)
 
 [![Profile Views](https://u8views.com/api/v1/github/profiles/54685665/views/day-week-month-total-count.svg)](https://u8views.com/github/AmineFouzai)
 
