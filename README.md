@@ -1,11 +1,13 @@
 
 <h1 align="center">
-  <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="40px">
-  👋 Hello, I'm Amine Fouzai!
-  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="40px">
+  <img src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="40">
+  Hey there! 👋 I'm Amine Fouzai  
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="40">
 </h1>
-## 🐍 Contribution Snake Graph  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Solution+Developer+%7C+Full-Stack+Enthusiast;Passionate+about+Coding+and+Problem+Solving;Building+Scalable+and+Secure+Systems;Tech+Explorer+%7C+Open-Source+Contributor" />
+</p>
 
 ---
 ## 🚀 About Me  
@@ -17,6 +19,8 @@
 - 🎯 Expertise in **Python, Node.js, Django, Express, REST APIs, GraphQL, and Database Optimization**.  
 - 🔐 Strong interest in **Cybersecurity & Open Source Contributions**.  
 - 🚀 Always up for solving **challenging problems**.  
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
